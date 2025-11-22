@@ -4,6 +4,7 @@
 	"label": "",
 	"namedLogo": "x",
 	"logoColor": "fff",
+	"logoSize": "auto",
 	"message": "@stormfxi",
 	"style": "flat-square"
 }
