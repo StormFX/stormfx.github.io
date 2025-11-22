@@ -1,8 +1,6 @@
 {
 	"schemaVersion": 1,
 	"color": "000",
-	"label": "",
-	"labelColor": "000",
 	"logoSvg": "<svg viewBox=\"0 0 36 36\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m20.97 15.55 11.66-13.55h-2.763l-10.12 11.77-8.084-11.77h-9.324l12.22 17.79-12.22 14.21h2.763l10.69-12.42 8.537 12.42h9.324zm-3.783 4.399-11.09-15.87h4.243l7.953 11.38 11.58 16.56h-4.243z\" fill=\"#fff\"/></svg>",
 	"message": "StormFX",
 	"style": "flat-square"
