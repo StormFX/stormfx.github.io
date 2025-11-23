@@ -3,9 +3,9 @@
 	"color": "000",
 	"label": "",
 	"labelColor": "000",
-	"logo": "X",
 	"logoColor": "#fff",
 	"logoWidth": 12,
 	"message": "StormFX",
+	"namedLogo": "X",
 	"style": "flat-square"
 }
